@@ -1,0 +1,13 @@
+        Skills to be learned in the course:
+
+1.Basic theory:
+		1.1.what is testing,
+		1.2.bug reports,
+		1.3.documentation,
+		1.4.types,
+		1.5.methods,
+		1.6.testing areas, etc.
+2.what is a client-server architecture,
+3.HTTP methods for visiting the server,
+4.what is JSON, XML. Their structure,
+5.API testing via Postman (JS, API autotests) and other skills.
