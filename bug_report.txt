@@ -1,0 +1,11 @@
+Preconditions: The website https://pro-test.qa.goit.ua/results is open in the browser,
+
+Steps to reproduce:
+    1. Enter registration data,
+    2. Click the login or registration button,
+    3. Go to the (Materials) section,
+    4. Click on the (More) button in the body of the page under Useful literature
+
+Expected result: When you click on the (More) button in the body of the page under Useful literature, a full list opens,
+
+Actual result: When clicking on the (More) button, the full list of useful literature does not open.
