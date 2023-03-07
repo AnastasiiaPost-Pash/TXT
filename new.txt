@@ -1,8 +1,8 @@
-"Name": "Anastasiia Postavets-Pashkovska"
-"Age": 23
-"Pets": 
-	"Pets": "a dog"
-	"Breed": "the Jack-Russel-terrier"
-	"Name": "Mia"
-	"Age": 3
+Name: Anastasiia Postavets-Pashkovska
+Age: 23
+Pets: 
+	Pets: a dog
+	Breed: the Jack-Russel-terrier
+	Name: Mia
+	Age: 3
 Desired salary: 2500$+
