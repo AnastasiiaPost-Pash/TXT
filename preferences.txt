@@ -1,0 +1,20 @@
+Favorite movies:
+	1."Villa Romantika",
+	2."Love& other drugs",
+	3."Fast and Furious"
+
+Favorite series:
+	1."Inventing Anna",
+	2."Wensday",
+	3."The Recruit"
+
+Favorite food:
+	1.Pasta carbonara,
+	2.pizza,
+	3.sushi
+Favorite season: summer
+
+I want to visit the country:
+	1.France,
+	2.USA,
+	3.One day I want to visit all the countries and try all the different foods all over the world.
